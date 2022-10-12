@@ -20,3 +20,26 @@ header{
     background-color: #1abc9c;
     padding-top: 3rem;
 }
+
+.contact-me{
+    margin-top: 3rem;
+}
+
+.bottone-contact-me{
+    background-color: #1abc9c;
+    color: white;
+
+}
+
+.footer-top{
+    background-color: #3a546d;
+}
+
+.footer-bottom{
+    background-color: #2c3e50;
+}
+
+.link-bootstrap{
+    color: #1abc9c;
+    text-decoration: none;
+}
