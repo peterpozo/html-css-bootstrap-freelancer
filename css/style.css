@@ -6,6 +6,12 @@ header{
     background-color: #1abc9c;
 }
 
+.linea{
+    border: 1px solid;
+    width: 4rem;
+
+}
+
 .portfolio{
     margin-top: 3rem;
     margin-bottom: 3rem;
